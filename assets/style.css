@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+main {
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+}
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+figure {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.detalhes>span {
+    display: block;
+    margin-top: 8px;
+}
+.detalhes {
+    margin-top: 50px;
+}
